@@ -1,0 +1,17 @@
+{
+  "name": "paymentNotification-package",
+  "version": "1.0.0",
+  "description": "Enigmata payment notification service",
+  "main": "paymentNotificationHandler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AID SYSTEMS",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "jsonwebtoken": "8.1.0",
+    "caller-id": "*",
+    "idx": "*",
+    "request": "*"
+  }
+}
